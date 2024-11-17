@@ -109,3 +109,11 @@ ehthumbs.db
 
 # Custom directories
 data/
+
+# Sanal ortam klasörü
+myenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
